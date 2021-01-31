@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mark Lisé
 
-- 🔭 I’m the owmer of the Software Development Company Digitalspace Consulting Inc.
+- 🔭 I’m the owmer of the Software Development Company <a href='https://www.digitalspace.ca/'>Digitalspace Consulting Inc.</a>
 - 🌱 I’m currently learning about blockchain
 - 👯 I’m looking to collaborate on anything awesome :)
 - 💬 Ask me about software development, web services, or anything tech related.
