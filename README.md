@@ -8,4 +8,6 @@
 
 #### Github Stats 📊
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=marklise&show_icons=true&theme=dark)
+![Mark's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marklise&theme=dark)
+
+
